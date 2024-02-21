@@ -1,0 +1,6 @@
+@StarWarsBestiaryApi_HostAddress = http://localhost:5010
+
+GET {{StarWarsBestiaryApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

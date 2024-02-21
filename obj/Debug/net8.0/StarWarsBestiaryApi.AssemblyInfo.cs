@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarWarsBestiaryApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c033ef4faa9dbb4550d93d85de16c2705c930238")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarWarsBestiaryApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarWarsBestiaryApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,2 +1,6 @@
 appsettings.json
 appsettings.Development.json
+Properties
+obj
+bin
+.vs

@@ -9,7 +9,8 @@ using StarWarsBestiaryApi;
 
 namespace StarWarsBestiaryApi.Controllers
 {
-    [Route("api/[controller]")]
+    // [Route("api/[controller]")]
+    [Route("api/Creatures/")]
     [ApiController]
     public class CreaturesController : ControllerBase
     {

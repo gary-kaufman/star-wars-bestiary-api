@@ -10,4 +10,4 @@ I used the following resources to complete this project:
 
 ## How To Use
 
-To interact with this API you can start with the endpoint https://star-wars-bestiary-api.azurewebsites.net/api/Creatures. By exploring the Controller file in this project, you can see the other Get requests that are available.
+To interact with this API you can start with the endpoint https://star-wars-bestiary-api.azurewebsites.net/api/Creatures. By exploring the `CreaturesController.cs` file in this project, you can see the other `HttpGet` requests that are available.

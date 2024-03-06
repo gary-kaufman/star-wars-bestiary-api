@@ -1,4 +1,4 @@
-# Star Wars Bestiary API
+# Star Wars Bestiary API 🦍🪿🐸
 
 This is just a simple project I made to learn the basic concepts of ASP.NET and how I can interact with a Azure SQL Database.
 
